@@ -4,7 +4,7 @@ Practicas y ejercicios de mini bootcamp sobre ciencia de datos para analistas y 
 # Descripcion del bootcamp
 Poder explorar y aplicar algunos conocimientos sobre ciencia de datos y analisis de datos con diferentes librerias basadas en 
 
--[Python](https://img.shields.io/pypi/pyversions/seaborn)
+* https://img.shields.io/pypi/pyversions/seaborn
 
  Paquetes y librerias utilizadas:
  
