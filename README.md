@@ -20,10 +20,11 @@ Poder explorar y aplicar algunos conocimientos sobre ciencia de datos y analisis
  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 
- 
 
 Desplegue de visualizacion:
-[https://mybinder.org/v2/gh/w2k31984/tripleten_Bootcamp_DS/master](https://mybinder.org/v2/gh/w2k31984/tripleten_Bootcamp_DS/master)
+Ir a URL de visualizacion : 
+
+https://mybinder.org/v2/gh/w2k31984/tripleten_Bootcamp_DS/master
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/w2k31984/tripleten_Bootcamp_DS/master)
 
